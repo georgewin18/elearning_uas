@@ -1,6 +1,6 @@
 <?php
 
-$servername = "lcoalhost";
+$servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "elearning_db";
